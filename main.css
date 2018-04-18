@@ -4,8 +4,8 @@ body{
   font-style: arial black;
   text-align: center;
 }
-.bandera, .bandera p{
-  display: inline;
+.bandera{
+  display: inline-block;
   width:40vh;
   height: 45%;
   background-color: red;
