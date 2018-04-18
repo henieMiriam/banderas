@@ -5,7 +5,7 @@ body{
   text-align: center;
 }
 .bandera{
-  display: inline-block;
+  display: block;
   width:40vh;
   height: 45%;
   background-color: red;
