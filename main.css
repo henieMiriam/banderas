@@ -1,0 +1,26 @@
+body{
+  background-color: silver;
+  font-size: 190%;
+  font-style: arial black;
+  text-align: center;
+}
+.bandera, .bandera p{
+  display: inline;
+  width:40vh;
+  height: 45%;
+  background-color: red;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  margin: 0px 10px;
+  border: 4px:
+
+}
+.amarilla{
+  background-color: black;
+  color: white;
+
+}
+#mayusculas{
+  text-transform: uppercase;
+}
